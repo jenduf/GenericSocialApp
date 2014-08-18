@@ -1,0 +1,223 @@
+{
+   "user_id":10,
+   "username":"jenduf",
+   "avatar":"1395376385.jpg",
+   "first_name":"Jen",
+   "last_name":"Duffey",
+   "layout_id":2,
+   "short_bio":"i like video games and iOS development. Really Sweet!!",
+   "location":"Dallas",
+   "is_private":1,
+   "email":"jenduf1@gmail.com",
+   "is_notify_love":0,
+   "is_notify_follow":0,
+   "is_notify_comment":0,
+   "facebook_user_id":616614375,
+   "twitter_oauth_token":null,
+   "twitter_oauth_token_secret":null,
+   "twitter_user_id":null,
+   "is_private_bypass":1,
+   "articles":[
+      {
+         "article_id":"zW4d7W",
+         "article_type_id":1,
+         "src":"10\/1394060685.jpg",
+         "src_width":540,
+         "src_height":405,
+         "region_num":1,
+         "content_scale":100,
+         "content_top":-28,
+         "content_left":0,
+         "date_added":"2014-03-05 23:04:47",
+         "caption":"The Walking Dead",
+         "text":null,
+         "external_media_id":null,
+         "i_love":1,
+         "activity_count":17
+      },
+      {
+         "article_id":"KxevLB",
+         "article_type_id":2,
+         "src":"10\/1394501809.jpg",
+         "src_width":480,
+         "src_height":360,
+         "region_num":7,
+         "content_scale":100,
+         "content_top":-9,
+         "content_left":0,
+         "date_added":"2014-03-11 01:36:49",
+         "caption":"Like you, I used to think the world was this great place where everybody lived by the same standards I did, then some kid with a nail showed me I was living in his world, a world where chaos rules not order, a world where righteousness is not reward",
+         "text":null,
+         "external_media_id":"xIASaUUwklk",
+         "i_love":0,
+         "activity_count":2
+      },
+      {
+         "article_id":"m602nB",
+         "article_type_id":1,
+         "src":"10\/1394555210.jpg",
+         "src_width":419,
+         "src_height":496,
+         "region_num":8,
+         "content_scale":100,
+         "content_top":-20,
+         "content_left":0,
+         "date_added":"2014-03-11 16:26:51",
+         "caption":"Now that we know who you are, I know who I am. I'm not a mistake! It all makes sense! In a comic, you know how you can tell who the arch-villain's going to be? He's the exact opposite of the hero. And most times they're friends, like you and me! I s",
+         "text":null,
+         "external_media_id":null,
+         "i_love":0,
+         "activity_count":1
+      },
+      {
+         "article_id":"X61vgx",
+         "article_type_id":1,
+         "src":"10\/1394812649.jpg",
+         "src_width":540,
+         "src_height":303,
+         "region_num":3,
+         "content_scale":100,
+         "content_top":0,
+         "content_left":0,
+         "date_added":"2014-03-14 15:57:29",
+         "caption":"Here is a comment that isn't as long as the others, but I do need it to be somewhat long for testing purposes. In fact just a smudge",
+         "text":null,
+         "external_media_id":null,
+         "i_love":1,
+         "activity_count":2
+      },
+      {
+         "article_id":"QWJZdW",
+         "article_type_id":1,
+         "src":"10\/1395061262.jpg",
+         "src_width":372,
+         "src_height":496,
+         "region_num":9,
+         "content_scale":100,
+         "content_top":0,
+         "content_left":0,
+         "date_added":"2014-03-17 13:01:03",
+         "caption":"Awwww",
+         "text":null,
+         "external_media_id":null,
+         "i_love":0,
+         "activity_count":2
+      },
+      {
+         "article_id":"9WMXyB",
+         "article_type_id":1,
+         "src":"10\/1396173460.jpg",
+         "src_width":946,
+         "src_height":710,
+         "region_num":4,
+         "content_scale":100,
+         "content_top":-8,
+         "content_left":0,
+         "date_added":"2014-03-30 09:57:45",
+         "caption":null,
+         "text":null,
+         "external_media_id":null,
+         "i_love":0,
+         "activity_count":2
+      },
+      {
+         "article_id":"kB7ew6",
+         "article_type_id":2,
+         "src":"10\/1398787013.jpg",
+         "src_width":480,
+         "src_height":360,
+         "region_num":2,
+         "content_scale":100,
+         "content_top":0,
+         "content_left":0,
+         "date_added":"2014-04-29 15:56:54",
+         "caption":null,
+         "text":null,
+         "external_media_id":"3uZYvaQzDkA",
+         "i_love":0,
+         "activity_count":1
+      },
+      {
+         "article_id":"GWgabx",
+         "article_type_id":3,
+         "src":"10\/1399669030.jpg",
+         "src_width":640,
+         "src_height":360,
+         "region_num":5,
+         "content_scale":132,
+         "content_top":0,
+         "content_left":-16,
+         "date_added":"2014-05-09 20:57:11",
+         "caption":null,
+         "text":null,
+         "external_media_id":20502771,
+         "i_love":0,
+         "activity_count":0
+      }
+   ],
+   "is_facebook_connected":true,
+   "facebook_name":"Jen Duffey",
+   "is_twitter_connected":false,
+   "friends":[
+      {
+         "total_entries":4
+      },
+      [
+         {
+            "avatar":null,
+            "username":"jduffey",
+            "is_private":0,
+            "friend_id":21,
+            "date_visited":"2014-05-28 18:18:52",
+            "new_post_count":2,
+            "is_auth_user_friend":1,
+            "is_private_bypass":1
+         },
+         {
+            "avatar":"1399992379.jpg",
+            "username":"bartlewis",
+            "is_private":0,
+            "friend_id":1,
+            "date_visited":"2014-05-29 21:55:42",
+            "new_post_count":1,
+            "is_auth_user_friend":1,
+            "is_private_bypass":1
+         },
+         {
+            "avatar":null,
+            "username":"jduff03",
+            "is_private":0,
+            "friend_id":22,
+            "date_visited":"2014-05-23 23:58:49",
+            "new_post_count":0,
+            "is_auth_user_friend":1,
+            "is_private_bypass":1
+         },
+         {
+            "avatar":"1394896307.jpg",
+            "username":"kirklove",
+            "is_private":1,
+            "friend_id":2,
+            "date_visited":"2014-05-29 20:58:06",
+            "new_post_count":0,
+            "is_auth_user_friend":1,
+            "is_private_bypass":1
+         }
+      ]
+   ],
+   "requests":[
+      {
+         "total_entries":1
+      },
+      [
+         {
+            "avatar":null,
+            "username":"jduff03",
+            "is_private":0,
+            "user_id":22,
+            "date_added":"2014-05-23 23:59:37",
+            "is_auth_user_friend":1
+         }
+      ]
+   ]
+}

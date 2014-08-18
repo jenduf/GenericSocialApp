@@ -1,0 +1,17 @@
+[ { "total_entries" : 2 },
+  [ { "avatar" : "1395434730.jpg",
+      "date_visited" : "2014-03-31 12:41:46",
+      "friend_id" : 1,
+      "new_post_count" : 0,
+      "username" : "bartlewis",
+      "is_auth_user_friend" : 0
+    },
+    { "avatar" : "1394896307.jpg",
+      "date_visited" : "2014-03-31 12:41:44",
+      "friend_id" : 2,
+      "new_post_count" : 0,
+      "username" : "kirklove",
+      "is_auth_user_friend" : 1
+    }
+  ]
+]

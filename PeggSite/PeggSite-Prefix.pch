@@ -1,0 +1,41 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <HockeySDK/HockeySDK.h>
+    #import <FacebookSDK/FacebookSDK.h>
+    #import <AssetsLibrary/AssetsLibrary.h>
+    #import "Constants.h"
+    #import "Strings.h"
+    #import "Utils.h"
+    #import "Friend.h"
+    #import "User.h"
+    #import "Article.h"
+    #import "Region.h"
+    #import "AvatarView.h"
+    #import "NSObject+Initializers.h"
+    #import "UIView+Positioning.h"
+    #import "UIView-ViewFrameGeometry.h"
+    #import "PSNavController.h"
+    #import "DataManager.h"
+    #import "ShareManager.h"
+    #import "LayoutManager.h"
+    #import "AssetManager.h"
+    #import "UIImageView+WebCache.h"
+    #import "UIColor+Hex.h"
+    #import "PeggLabel.h"
+    #import "PeggButton.h"
+    #import "PeggTextField.h"
+    #import "PeggTextView.h"
+#endif

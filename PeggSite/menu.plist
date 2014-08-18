@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>section</key>
+		<string>FIND FRIENDS</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>friends_icon</string>
+				<key>text</key>
+				<string>Find Friends</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section</key>
+		<string>SETTINGS</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>push_icon</string>
+				<key>text</key>
+				<string>Push Notifications</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>share_icon</string>
+				<key>text</key>
+				<string>Share Settings</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section</key>
+		<string>OTHER</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>help_icon</string>
+				<key>text</key>
+				<string>Help</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>feedback_icon</string>
+				<key>text</key>
+				<string>Feedback</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>privacy_icon</string>
+				<key>text</key>
+				<string>Legal</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>about_icon</string>
+				<key>text</key>
+				<string>About</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>logout_icon</string>
+				<key>text</key>
+				<string>Log Out</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

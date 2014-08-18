@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F278985E-F4D4-4286-A8EC-592650F93764</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PeggSite</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5134649A-16D0-440F-976A-916AEB5CB636</key>
+		<string>https://github.com/kirkl/peggsite.ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PeggSite.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5134649A-16D0-440F-976A-916AEB5CB636</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kirkl/peggsite.ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5134649A-16D0-440F-976A-916AEB5CB636</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5134649A-16D0-440F-976A-916AEB5CB636</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PeggSite</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  PeggSite
+
+  Created by Jennifer Duffey on 7/9/14.
+  Copyright (c) 2014 Jennifer Duffey. All rights reserved.
+*/
+
+// Email
+"EmailError_Title" = "Email Failure";
+"EmailError_Message" = "Your device is not configured to send email. Please contact us at %@.";
+"EmailError_Cancel" = "OK";
+
+"EmailHelpSubject" = "Can you help me with...";
+
+"EmailFeedbackSubject" = "PeggSite Feedback";
+
+"EmailReportContentSubject" = "Inappropriate Content";
+
+"EmailReportContentBody" = "I would like to report user %@ has content I find inappropriate.";
+
+"EmailShareContentSubject" = "Check out this post";
+
+"EmailShareContentBody" = "There's a post on PeggSite you may like: %@. Check it out!";
+
+
+// Twitter
+"TwitterError_Title" = "Twitter Error";
+"TwitterError_Message" = "Twitter has experienced an error %@";
+"TwitterError_Cancel" = "OK";
+
+// Facebook
+"FacebookError_Title" = "Facebook Error";
+"FacebookError_Message" = "Facebook has experienced an error %@";
+"FacebookError_Cancel" = "OK";
+
+"FacebookShareMessage" = "Check out what I found on PeggSite.";
+
+// Content Updated Successfully
+"ContentUpdated_Title" = "Success!";
+"ContentUpdated_Message" = "Your content has been updated!";
+"ContentUpdated_Cancel" = "OK";
+
+// Content Posted Successfully
+"ContentPosted_Title" = "Success!";
+"ContentPosted_Message" = "Your comment was posted!";
+"ContentPosted_Cancel" = "OK";
+
+
+// Board Full Alert
+"BoardFull_Title" = "Error";
+"BoardFull_Message" = "Your PeggSite Board is full. Please delete an item before adding a new one.";
+"BoardFull_Cancel" = "OK";
+
+// Article Delete Warning
+"DeleteWarning_Title" = "Wait";
+"DeleteWarning_Message" = "Are you sure you want to delete this item?";
+"DeleteWarning_Other" = "I'M SURE";
+"DeleteWarning_Cancel" = "HOLD UP";
+
+// Validation Errors
+"ErrorInvalidEmail_Title" = "Error";
+"ErrorInvalidEmail_Message" = "Please enter a valid e-mail address";
+"ErrorInvalidEmail_Cancel" = "OK";
+
+// Connection Error
+"ErrorFailedRequest_Title" = "Error";
+"ErrorFailedRequest_Message" = "Unable to process request. Error: %@";
+"ErrorFailedRequest_Cancel" = "Try Again";
+
