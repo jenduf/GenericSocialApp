@@ -169,7 +169,6 @@
 		77F0F39719350EFF00BE41E8 /* ArticleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 77F0F39619350EFF00BE41E8 /* ArticleViewController.m */; };
 		77F0F39A1936617100BE41E8 /* FacebookFriendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 77F0F3991936617100BE41E8 /* FacebookFriendViewController.m */; };
 		77F0F3B21936696300BE41E8 /* HockeySDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77F0F3AE1936696300BE41E8 /* HockeySDK.framework */; };
-		77F0F3B31936696300BE41E8 /* HockeySDK.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 77F0F3B01936696300BE41E8 /* HockeySDK.xcconfig */; };
 		77F0F3B41936696300BE41E8 /* HockeySDKResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 77F0F3B11936696300BE41E8 /* HockeySDKResources.bundle */; };
 		77F0F3B61936697B00BE41E8 /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77F0F3B51936697B00BE41E8 /* FacebookSDK.framework */; };
 		77F0F3BC19366DA200BE41E8 /* libUAirship-4.0.0.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 77F0F3BB19366DA200BE41E8 /* libUAirship-4.0.0.a */; };
@@ -260,16 +259,16 @@
 		7729780918C5056E00E157F6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		7729780B18C5056E00E157F6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		7729780D18C5056E00E157F6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		7729781118C5056E00E157F6 /* PeggSite-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PeggSite-Info.plist"; sourceTree = "<group>"; };
+		7729781118C5056E00E157F6 /* GenericSocialApp-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GenericSocialApp-Info.plist"; sourceTree = "<group>"; };
 		7729781318C5056E00E157F6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7729781518C5056E00E157F6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		7729781718C5056E00E157F6 /* PeggSite-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PeggSite-Prefix.pch"; sourceTree = "<group>"; };
+		7729781718C5056E00E157F6 /* GenericSocialApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GenericSocialApp-Prefix.pch"; sourceTree = "<group>"; };
 		7729781818C5056E00E157F6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		7729781918C5056E00E157F6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		7729781B18C5056E00E157F6 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		7729782118C5056E00E157F6 /* PeggSiteTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PeggSiteTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7729782118C5056E00E157F6 /* GenericSocialAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GenericSocialAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7729782218C5056E00E157F6 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		7729782A18C5056E00E157F6 /* PeggSiteTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PeggSiteTests-Info.plist"; sourceTree = "<group>"; };
+		7729782A18C5056E00E157F6 /* GenericSocialAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GenericSocialAppTests-Info.plist"; sourceTree = "<group>"; };
 		7729782C18C5056E00E157F6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7729782E18C5056E00E157F6 /* PeggSiteTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PeggSiteTests.m; sourceTree = "<group>"; };
 		7729783818C5059F00E157F6 /* PeggStory.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = PeggStory.storyboard; sourceTree = "<group>"; };
@@ -495,7 +494,7 @@
 		77F0F3AE1936696300BE41E8 /* HockeySDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = HockeySDK.framework; sourceTree = "<group>"; };
 		77F0F3B01936696300BE41E8 /* HockeySDK.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = HockeySDK.xcconfig; sourceTree = "<group>"; };
 		77F0F3B11936696300BE41E8 /* HockeySDKResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = HockeySDKResources.bundle; sourceTree = "<group>"; };
-		77F0F3B51936697B00BE41E8 /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FacebookSDK.framework; path = PeggSite/External_SDKs/FacebookSDK.framework; sourceTree = "<group>"; };
+		77F0F3B51936697B00BE41E8 /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FacebookSDK.framework; path = GenericSocialApp/External_SDKs/FacebookSDK.framework; sourceTree = "<group>"; };
 		77F0F3BB19366DA200BE41E8 /* libUAirship-4.0.0.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libUAirship-4.0.0.a"; path = "Airship/libUAirship-4.0.0.a"; sourceTree = "<group>"; };
 		77F0F3BD19366FF600BE41E8 /* ContactsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactsViewController.h; sourceTree = "<group>"; };
 		77F0F3BE19366FF600BE41E8 /* ContactsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactsViewController.m; sourceTree = "<group>"; };
@@ -555,8 +554,8 @@
 		772977FD18C5056E00E157F6 = {
 			isa = PBXGroup;
 			children = (
-				7729780F18C5056E00E157F6 /* PeggSite */,
-				7729782818C5056E00E157F6 /* PeggSiteTests */,
+				7729780F18C5056E00E157F6 /* GenericSocialApp */,
+				7729782818C5056E00E157F6 /* GenericSocialApp Tests */,
 				7729780818C5056E00E157F6 /* Frameworks */,
 				7729780718C5056E00E157F6 /* Products */,
 			);
@@ -566,7 +565,7 @@
 			isa = PBXGroup;
 			children = (
 				7729780618C5056E00E157F6 /* PeggSite.app */,
-				7729782118C5056E00E157F6 /* PeggSiteTests.xctest */,
+				7729782118C5056E00E157F6 /* GenericSocialAppTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -594,7 +593,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		7729780F18C5056E00E157F6 /* PeggSite */ = {
+		7729780F18C5056E00E157F6 /* GenericSocialApp */ = {
 			isa = PBXGroup;
 			children = (
 				7729783A18C50E7300E157F6 /* external */,
@@ -608,7 +607,7 @@
 				7729781918C5056E00E157F6 /* AppDelegate.m */,
 				7729781018C5056E00E157F6 /* Supporting Files */,
 			);
-			path = PeggSite;
+			path = GenericSocialApp;
 			sourceTree = "<group>";
 		};
 		7729781018C5056E00E157F6 /* Supporting Files */ = {
@@ -618,30 +617,31 @@
 				77E9B2AB18CA7D050020F6EE /* fonts */,
 				7729781B18C5056E00E157F6 /* Images.xcassets */,
 				77F8712A196D29B900D3390A /* Localizable.strings */,
-				7729781118C5056E00E157F6 /* PeggSite-Info.plist */,
+				7729781118C5056E00E157F6 /* GenericSocialApp-Info.plist */,
 				77A8DB2D1905D17500FF99CA /* AirshipConfig.plist */,
 				7729781218C5056E00E157F6 /* InfoPlist.strings */,
 				7729781518C5056E00E157F6 /* main.m */,
-				7729781718C5056E00E157F6 /* PeggSite-Prefix.pch */,
+				7729781718C5056E00E157F6 /* GenericSocialApp-Prefix.pch */,
 				7729783818C5059F00E157F6 /* PeggStory.storyboard */,
 				778F416018D5FBCD00112381 /* buildnumber.xcconfig */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		7729782818C5056E00E157F6 /* PeggSiteTests */ = {
+		7729782818C5056E00E157F6 /* GenericSocialApp Tests */ = {
 			isa = PBXGroup;
 			children = (
 				7729782E18C5056E00E157F6 /* PeggSiteTests.m */,
 				7729782918C5056E00E157F6 /* Supporting Files */,
 			);
-			path = PeggSiteTests;
+			name = "GenericSocialApp Tests";
+			path = GenericSocialAppTests;
 			sourceTree = "<group>";
 		};
 		7729782918C5056E00E157F6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				7729782A18C5056E00E157F6 /* PeggSiteTests-Info.plist */,
+				7729782A18C5056E00E157F6 /* GenericSocialAppTests-Info.plist */,
 				7729782B18C5056E00E157F6 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -1018,7 +1018,7 @@
 				77F0F3AF1936696300BE41E8 /* Resources */,
 			);
 			name = HockeySDK.embeddedframework;
-			path = PeggSite/External_SDKs/HockeySDK.embeddedframework;
+			path = GenericSocialApp/External_SDKs/HockeySDK.embeddedframework;
 			sourceTree = "<group>";
 		};
 		77F0F3AF1936696300BE41E8 /* Resources */ = {
@@ -1033,9 +1033,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7729780518C5056E00E157F6 /* PeggSite */ = {
+		7729780518C5056E00E157F6 /* GenericSocialApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7729783218C5056E00E157F6 /* Build configuration list for PBXNativeTarget "PeggSite" */;
+			buildConfigurationList = 7729783218C5056E00E157F6 /* Build configuration list for PBXNativeTarget "GenericSocialApp" */;
 			buildPhases = (
 				7729780218C5056E00E157F6 /* Sources */,
 				7729780318C5056E00E157F6 /* Frameworks */,
@@ -1046,14 +1046,14 @@
 			);
 			dependencies = (
 			);
-			name = PeggSite;
+			name = GenericSocialApp;
 			productName = PeggSite;
 			productReference = 7729780618C5056E00E157F6 /* PeggSite.app */;
 			productType = "com.apple.product-type.application";
 		};
-		7729782018C5056E00E157F6 /* PeggSiteTests */ = {
+		7729782018C5056E00E157F6 /* GenericSocialAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7729783518C5056E00E157F6 /* Build configuration list for PBXNativeTarget "PeggSiteTests" */;
+			buildConfigurationList = 7729783518C5056E00E157F6 /* Build configuration list for PBXNativeTarget "GenericSocialAppTests" */;
 			buildPhases = (
 				7729781D18C5056E00E157F6 /* Sources */,
 				7729781E18C5056E00E157F6 /* Frameworks */,
@@ -1064,9 +1064,9 @@
 			dependencies = (
 				7729782718C5056E00E157F6 /* PBXTargetDependency */,
 			);
-			name = PeggSiteTests;
+			name = GenericSocialAppTests;
 			productName = PeggSiteTests;
-			productReference = 7729782118C5056E00E157F6 /* PeggSiteTests.xctest */;
+			productReference = 7729782118C5056E00E157F6 /* GenericSocialAppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -1075,7 +1075,7 @@
 		772977FE18C5056E00E157F6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Jennifer Duffey";
 				TargetAttributes = {
 					7729780518C5056E00E157F6 = {
@@ -1086,7 +1086,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7729780118C5056E00E157F6 /* Build configuration list for PBXProject "PeggSite" */;
+			buildConfigurationList = 7729780118C5056E00E157F6 /* Build configuration list for PBXProject "GenericSocialApp" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -1098,8 +1098,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7729780518C5056E00E157F6 /* PeggSite */,
-				7729782018C5056E00E157F6 /* PeggSiteTests */,
+				7729780518C5056E00E157F6 /* GenericSocialApp */,
+				7729782018C5056E00E157F6 /* GenericSocialAppTests */,
 			);
 		};
 /* End PBXProject section */
@@ -1116,7 +1116,6 @@
 				771F311E18E9DA0F005FCCA7 /* dummy_response_4.txt in Resources */,
 				778BD7CB18FDB6A7009A991E /* ProximaNova-Extrabld.otf in Resources */,
 				771F311C18E9D790005FCCA7 /* dummy_response_0.txt in Resources */,
-				77F0F3B31936696300BE41E8 /* HockeySDK.xcconfig in Resources */,
 				77E9B2B318CA7DBF0020F6EE /* ProximaNova-Semibold.otf in Resources */,
 				777DD25F18EEC985009C967E /* menu.plist in Resources */,
 				771F312018E9DE79005FCCA7 /* dummy_response_6.txt in Resources */,
@@ -1314,7 +1313,7 @@
 /* Begin PBXTargetDependency section */
 		7729782718C5056E00E157F6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7729780518C5056E00E157F6 /* PeggSite */;
+			target = 7729780518C5056E00E157F6 /* GenericSocialApp */;
 			targetProxy = 7729782618C5056E00E157F6 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -1392,27 +1391,27 @@
 				COMPRESS_PNG_FILES = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs/HockeySDK.embeddedframework",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs/HockeySDK.embeddedframework",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "PeggSite/PeggSite-Prefix.pch";
+				GCC_PREFIX_HEADER = "GenericSocialApp/GenericSocialApp-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"Airship/**",
 				);
-				INFOPLIST_FILE = "PeggSite/PeggSite-Info.plist";
+				INFOPLIST_FILE = "GenericSocialApp/GenericSocialApp-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs",
 					"$(PROJECT_DIR)/Airship",
 				);
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = GenericSocialApp;
 				PROVISIONING_PROFILE = "C946E71A-7F6C-4609-9DA3-E8B1E793AC46";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -1429,13 +1428,13 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "PeggSite/PeggSite-Prefix.pch";
+				GCC_PREFIX_HEADER = "GenericSocialApp/PeggSite-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "PeggSiteTests/PeggSiteTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "GenericSocialAppTests/GenericSocialAppTests-Info.plist";
+				PRODUCT_NAME = GenericSocialAppTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -1494,27 +1493,27 @@
 				COMPRESS_PNG_FILES = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs/HockeySDK.embeddedframework",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs/HockeySDK.embeddedframework",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "PeggSite/PeggSite-Prefix.pch";
+				GCC_PREFIX_HEADER = "GenericSocialApp/GenericSocialApp-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"Airship/**",
 				);
-				INFOPLIST_FILE = "PeggSite/PeggSite-Info.plist";
+				INFOPLIST_FILE = "GenericSocialApp/GenericSocialApp-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs",
 					"$(PROJECT_DIR)/Airship",
 				);
 				OTHER_CFLAGS = "-DALLOW_DUMMY_DATA";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = GenericSocialApp;
 				PROVISIONING_PROFILE = "C946E71A-7F6C-4609-9DA3-E8B1E793AC46";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -1531,13 +1530,13 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "PeggSite/PeggSite-Prefix.pch";
+				GCC_PREFIX_HEADER = "GenericSocialApp/PeggSite-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "PeggSiteTests/PeggSiteTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "GenericSocialAppTests/GenericSocialAppTests-Info.plist";
+				PRODUCT_NAME = GenericSocialAppTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -1632,27 +1631,27 @@
 				COMPRESS_PNG_FILES = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs/HockeySDK.embeddedframework",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs/HockeySDK.embeddedframework",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "PeggSite/PeggSite-Prefix.pch";
+				GCC_PREFIX_HEADER = "GenericSocialApp/GenericSocialApp-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"Airship/**",
 				);
-				INFOPLIST_FILE = "PeggSite/PeggSite-Info.plist";
+				INFOPLIST_FILE = "GenericSocialApp/GenericSocialApp-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs",
 					"$(PROJECT_DIR)/Airship",
 				);
 				OTHER_CFLAGS = "-DUSE_DEV_WEB_SERVICE";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = GenericSocialApp;
 				PROVISIONING_PROFILE = "C946E71A-7F6C-4609-9DA3-E8B1E793AC46";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -1670,26 +1669,26 @@
 				COMPRESS_PNG_FILES = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs/HockeySDK.embeddedframework",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs/HockeySDK.embeddedframework",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "PeggSite/PeggSite-Prefix.pch";
+				GCC_PREFIX_HEADER = "GenericSocialApp/GenericSocialApp-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"Airship/**",
 				);
-				INFOPLIST_FILE = "PeggSite/PeggSite-Info.plist";
+				INFOPLIST_FILE = "GenericSocialApp/GenericSocialApp-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs",
 					"$(PROJECT_DIR)/Airship",
 				);
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = GenericSocialApp;
 				PROVISIONING_PROFILE = "C946E71A-7F6C-4609-9DA3-E8B1E793AC46";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -1706,13 +1705,13 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "PeggSite/PeggSite-Prefix.pch";
+				GCC_PREFIX_HEADER = "GenericSocialApp/PeggSite-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "PeggSiteTests/PeggSiteTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "GenericSocialAppTests/GenericSocialAppTests-Info.plist";
+				PRODUCT_NAME = GenericSocialAppTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -1728,9 +1727,9 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "PeggSite/PeggSite-Prefix.pch";
-				INFOPLIST_FILE = "PeggSiteTests/PeggSiteTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "GenericSocialApp/PeggSite-Prefix.pch";
+				INFOPLIST_FILE = "GenericSocialAppTests/GenericSocialAppTests-Info.plist";
+				PRODUCT_NAME = GenericSocialAppTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -1789,27 +1788,27 @@
 				COMPRESS_PNG_FILES = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs/HockeySDK.embeddedframework",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs/HockeySDK.embeddedframework",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "PeggSite/PeggSite-Prefix.pch";
+				GCC_PREFIX_HEADER = "GenericSocialApp/GenericSocialApp-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"Airship/**",
 				);
-				INFOPLIST_FILE = "PeggSite/PeggSite-Info.plist";
+				INFOPLIST_FILE = "GenericSocialApp/GenericSocialApp-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
-					"$(PROJECT_DIR)/PeggSite/External_SDKs",
+					"$(PROJECT_DIR)/GenericSocialApp/External_SDKs",
 					"$(PROJECT_DIR)/Airship",
 				);
 				OTHER_CFLAGS = "-DUSE_DEV_WEB_SERVICE";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = GenericSocialApp;
 				PROVISIONING_PROFILE = "C946E71A-7F6C-4609-9DA3-E8B1E793AC46";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -1826,13 +1825,13 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "PeggSite/PeggSite-Prefix.pch";
+				GCC_PREFIX_HEADER = "GenericSocialApp/PeggSite-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "PeggSiteTests/PeggSiteTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "GenericSocialAppTests/GenericSocialAppTests-Info.plist";
+				PRODUCT_NAME = GenericSocialAppTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -1841,7 +1840,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7729780118C5056E00E157F6 /* Build configuration list for PBXProject "PeggSite" */ = {
+		7729780118C5056E00E157F6 /* Build configuration list for PBXProject "GenericSocialApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7729783018C5056E00E157F6 /* Debug */,
@@ -1853,7 +1852,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7729783218C5056E00E157F6 /* Build configuration list for PBXNativeTarget "PeggSite" */ = {
+		7729783218C5056E00E157F6 /* Build configuration list for PBXNativeTarget "GenericSocialApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7729783318C5056E00E157F6 /* Debug */,
@@ -1865,7 +1864,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7729783518C5056E00E157F6 /* Build configuration list for PBXNativeTarget "PeggSiteTests" */ = {
+		7729783518C5056E00E157F6 /* Build configuration list for PBXNativeTarget "GenericSocialAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7729783618C5056E00E157F6 /* Debug */,

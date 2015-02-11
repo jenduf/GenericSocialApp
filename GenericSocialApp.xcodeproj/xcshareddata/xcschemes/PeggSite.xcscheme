@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0510"
+   LastUpgradeVersion = "0610"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7729780518C5056E00E157F6"
-               BuildableName = "PeggSite.app"
-               BlueprintName = "PeggSite"
-               ReferencedContainer = "container:PeggSite.xcodeproj">
+               BuildableName = "GenericSocialApp.app"
+               BlueprintName = "GenericSocialApp"
+               ReferencedContainer = "container:GenericSocialApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,14 +28,24 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "7729782018C5056E00E157F6"
+               BuildableName = "GenericSocialAppTests.xctest"
+               BlueprintName = "GenericSocialAppTests"
+               ReferencedContainer = "container:GenericSocialApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7729780518C5056E00E157F6"
-            BuildableName = "PeggSite.app"
-            BlueprintName = "PeggSite"
-            ReferencedContainer = "container:PeggSite.xcodeproj">
+            BuildableName = "GenericSocialApp.app"
+            BlueprintName = "GenericSocialApp"
+            ReferencedContainer = "container:GenericSocialApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -44,7 +54,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Prod Ad Hoc"
+      buildConfiguration = "Debug"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
@@ -52,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7729780518C5056E00E157F6"
-            BuildableName = "PeggSite.app"
-            BlueprintName = "PeggSite"
-            ReferencedContainer = "container:PeggSite.xcodeproj">
+            BuildableName = "GenericSocialApp.app"
+            BlueprintName = "GenericSocialApp"
+            ReferencedContainer = "container:GenericSocialApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -70,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7729780518C5056E00E157F6"
-            BuildableName = "PeggSite.app"
-            BlueprintName = "PeggSite"
-            ReferencedContainer = "container:PeggSite.xcodeproj">
+            BuildableName = "GenericSocialApp.app"
+            BlueprintName = "GenericSocialApp"
+            ReferencedContainer = "container:GenericSocialApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
@@ -80,7 +90,7 @@
       buildConfiguration = "Debug">
    </AnalyzeAction>
    <ArchiveAction
-      buildConfiguration = "Prod Ad Hoc"
+      buildConfiguration = "Release"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>

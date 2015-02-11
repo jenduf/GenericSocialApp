@@ -480,7 +480,7 @@
         [self checkForMatch];
     }
     
-    /*
+    
     if(recognizer.state == UIGestureRecognizerStateEnded)
     {
         CGPoint matchPoint = [recognizer locationInView:self];
